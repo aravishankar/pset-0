@@ -46,7 +46,7 @@ public class ProblemSet0 {
         * Print a quoted message to the console.
         */
 
-        System.out.println("\n\"The answer\'s quite simple\", the professor said. \"Just think outside the box!\"\n");
+        System.out.println("\n\"The answer\'s quite simple,\" the professor said. \"Just think outside the box!\"\n");
 
        /*
         * Exercise 4.
