@@ -68,8 +68,6 @@ public class ProblemSet0 {
         */
 
        System.out.println("\nHere\'s today\'s to-do list:\n\t- Go food shopping\n\t- Mow the lawn\n");
-       //System.out.println("\t- Go food shopping");
-       //System.out.println("\t- Mow the lawn\n");
 
        /*
         * Exercise 6.
