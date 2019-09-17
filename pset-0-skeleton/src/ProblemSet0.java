@@ -24,7 +24,7 @@ Public class PSet0 {
          * Print a message to the console.
          */
 
-        systemout.println(Hello, world! Am I a programmer yet?\n"
+       System.out.println("\nHello, world! Am I a programmer yet?\n");
 
         /*
          * Exercise 2.
@@ -32,13 +32,13 @@ Public class PSet0 {
          * Print APCS in block letters to the console.
          */
 
-        System.out.println("   ##    ######  ######## ########")
-        System.out.println("  #  #   #     # #        #";
-        System.out.println(" #    #  #     # #       #");
-        Syste.out.print("######## ######  #        ########");
-        System.out.printf("#      # #       #               #");
+        System.out.println("\n   ##    ######  ######## ########");
+        System.out.println("  #  #   #     # #        #");
+        System.out.println(" #    #  #     # #        #");
+        System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
-        Systemoutprintln("#      # #       ######## ########\n");
+        System.out.println("#      # #       #               #");
+        System.out.println("#      # #       ######## ########\n");
 
         /*
          * Exercise 3.
